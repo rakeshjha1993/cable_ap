@@ -1,0 +1,39 @@
+[
+    {   
+        "Broadcaster": "5c1b5435a52fc63ad1038d1e",
+        "BoquetName" : "Hindi Value",
+        "MRP" : "49",
+        "channels" : [
+            {
+                "channel_id": "5c1bb58dd195642a10c066a8"
+            },
+            {
+                "channel_id" : "5c1bb58dd195642a10c066a1"
+            },
+            {
+                "channel_id" : "5c1bb58dd195642a10c066c8"
+            },
+            {
+                "channel_id" : "5c1bb58dd195642a10c066a4"
+            },
+            {
+                "channel_id" : "5c1bb58dd195642a10c066c9"
+            },
+            {
+                "channel_id" : "5c1bb58dd195642a10c066ab"
+            },
+            {
+                "channel_id" : "5c1bb58dd195642a10c0669e"
+            },
+            {
+                "channel_id" : "5c1bb58dd195642a10c066b9"
+            },
+            {
+                "channel_id" : "5c1bb58dd195642a10c06664"
+            },
+            {
+                "channel_id" : "5c1bb58dd195642a10c06666"
+            }
+        ]
+    }
+]

@@ -1,0 +1,2648 @@
+[{
+  "Name": "ABP Majha",
+  "Genre": "News",
+  "Language": "Marathi",
+  "MRP": 0.5,
+  "Quality": "SD",
+  "Broadcaster": {"$oid":"5c1b6eef0cca52169ac36c4f"}
+},
+{
+  "Name": "The History Channel",
+  "Genre": "Infotainment",
+  "Language": "Hindi",
+  "MRP": 4,
+  "Quality": "SD",
+  "Broadcaster": {"$oid":"5c1b68214ae1d63ad19368fd"}
+},
+{
+  "Name": "FY1 TV18",
+  "Genre": "Infotainment",
+  "Language": "English",
+  "MRP": 1,
+  "Quality": "SD",
+  "Broadcaster": {"$oid":"5c1b68214ae1d63ad19368fd"}
+},
+{
+  "Name": "FY1 TV18 (HD)",
+  "Genre": "Infotainment",
+  "Language": "English",
+  "MRP": 1,
+  "Quality": "HD",
+  "Broadcaster": {"$oid":"5c1b68214ae1d63ad19368fd"}
+},
+{
+  "Name": "Histroy TV 18 HD",
+  "Genre": "Infotainment",
+  "Language": "Hindi",
+  "MRP": 9,
+  "Quality": "HD",
+  "Broadcaster": {"$oid":"5c1b68214ae1d63ad19368fd"}
+},
+{
+  "Name": "Asianet",
+  "Genre": "GEC",
+  "Language": "Malayalam",
+  "MRP": 19,
+  "Quality": "SD",
+  "Broadcaster": {"$oid":"5c1b67634ae1d63ad19368fb"}
+},
+{
+  "Name": "Asianet Plus",
+  "Genre": "GEC",
+  "Language": "Malayalam",
+  "MRP": 5,
+  "Quality": "SD",
+  "Broadcaster": {"$oid":"5c1b67634ae1d63ad19368fb"}
+},
+{
+  "Name": "Asianet Movies",
+  "Genre": "Movies",
+  "Language": "Malayalam",
+  "MRP": 15,
+  "Quality": "SD",
+  "Broadcaster": {"$oid":"5c1b67634ae1d63ad19368fb"}
+},
+{
+  "Name": "Suvarna Plus",
+  "Genre": "Movies",
+  "Language": "Kannada",
+  "MRP": 5,
+  "Quality": "SD",
+  "Broadcaster": {"$oid":"5c1b67634ae1d63ad19368fb"}
+},
+{
+  "Name": "Star Suvarna  HD",
+  "Genre": "GEC",
+  "Language": "Kannada",
+  "MRP": 19,
+  "Quality": "HD",
+  "Broadcaster": {"$oid":"5c1b67634ae1d63ad19368fb"}
+},
+{
+  "Name": "Asianet HD",
+  "Genre": "GEC",
+  "Language": "Malayalam",
+  "MRP": 19,
+  "Quality": "HD",
+  "Broadcaster": {"$oid":"5c1b67634ae1d63ad19368fb"}
+},
+{
+  "Name": "Star Suvarna",
+  "Genre": "GEC",
+  "Language": "Kannada",
+  "MRP": 19,
+  "Quality": "SD",
+  "Broadcaster": {"$oid":"5c1b67634ae1d63ad19368fb"}
+},
+{
+  "Name": "AATH",
+  "Genre": "GEC",
+  "Language": "Bangla",
+  "MRP": 4,
+  "Quality": "SD",
+  "Broadcaster": {"$oid":"5c1b67be4ae1d63ad19368fc"}
+},
+{
+  "Name": "SONY Marathi",
+  "Genre": "GEC",
+  "Language": "Marathi",
+  "MRP": 4,
+  "Quality": "SD",
+  "Broadcaster": {"$oid":"5c1b67be4ae1d63ad19368fc"}
+},
+{
+  "Name": "BBC World News",
+  "Genre": "News",
+  "Language": "English",
+  "MRP": 1,
+  "Quality": "SD",
+  "Broadcaster": {"$oid":"5c1b66dc4ae1d63ad19368fa"}
+},
+{
+  "Name": "Zoom",
+  "Genre": "GEC",
+  "Language": "Hindi",
+  "MRP": 1,
+  "Quality": "SD",
+  "Broadcaster": {"$oid":"5c1b6f420cca52169ac36c50"}
+},
+{
+  "Name": "Romedy Now",
+  "Genre": "Movies",
+  "Language": "English",
+  "MRP": 8,
+  "Quality": "SD",
+  "Broadcaster": {"$oid":"5c1b6f420cca52169ac36c50"}
+},
+{
+  "Name": "MN +",
+  "Genre": "Movies",
+  "Language": "English",
+  "MRP": 10,
+  "Quality": "HD",
+  "Broadcaster": {"$oid":"5c1b6f420cca52169ac36c50"}
+},
+{
+  "Name": "Mirror Now",
+  "Genre": "News",
+  "Language": "English/Hindi",
+  "MRP": 3,
+  "Quality": "SD",
+  "Broadcaster": {"$oid":"5c1b6f420cca52169ac36c50"}
+},
+{
+  "Name": "ET NOW",
+  "Genre": "News",
+  "Language": "English/Hindi",
+  "MRP": 3,
+  "Quality": "SD",
+  "Broadcaster": {"$oid":"5c1b6f420cca52169ac36c50"}
+},
+{
+  "Name": "Times Now",
+  "Genre": "News",
+  "Language": "English/Hindi",
+  "MRP": 5,
+  "Quality": "SD",
+  "Broadcaster": {"$oid":"5c1b6f420cca52169ac36c50"}
+},
+{
+  "Name": "Romedy Now HD",
+  "Genre": "Movies",
+  "Language": "English",
+  "MRP": 10,
+  "Quality": "HD",
+  "Broadcaster": {"$oid":"5c1b6f420cca52169ac36c50"}
+},
+{
+  "Name": "Movies Now HD",
+  "Genre": "Movies",
+  "Language": "English",
+  "MRP": 15,
+  "Quality": "HD",
+  "Broadcaster": {"$oid":"5c1b6f420cca52169ac36c50"}
+},
+{
+  "Name": "MNX HD",
+  "Genre": "Movies",
+  "Language": "English",
+  "MRP": 10,
+  "Quality": "HD",
+  "Broadcaster": {"$oid":"5c1b6f420cca52169ac36c50"}
+},
+{
+  "Name": "MNX",
+  "Genre": "Movies",
+  "Language": "English",
+  "MRP": 8,
+  "Quality": "SD",
+  "Broadcaster": {"$oid":"5c1b6f420cca52169ac36c50"}
+},
+{
+  "Name": "Times Now HD",
+  "Genre": "News",
+  "Language": "English",
+  "MRP": 7,
+  "Quality": "HD",
+  "Broadcaster": {"$oid":"5c1b6f420cca52169ac36c50"}
+},
+{
+  "Name": "BTVi",
+  "Genre": "News",
+  "Language": "English",
+  "MRP": 3,
+  "Quality": "SD",
+  "Broadcaster": {"$oid":"5c1b664f4ae1d63ad19368f9"}
+},
+{
+  "Name": "Travel XP HD",
+  "Genre": "Lifestyle",
+  "Language": "English",
+  "MRP": 9,
+  "Quality": "HD",
+  "Broadcaster": {"$oid":"5c1b65b74ae1d63ad19368f8"}
+},
+{
+  "Name": "Travel XP Tamil",
+  "Genre": "Lifestyle",
+  "Language": "Tamil",
+  "MRP": 1.5,
+  "Quality": "SD",
+  "Broadcaster": {"$oid":"5c1b65b74ae1d63ad19368f8"}
+},
+{
+  "Name": "JAN TV PLUS",
+  "Genre": "News",
+  "Language": "Hindi",
+  "MRP": 50,
+  "Quality": "SD",
+  "Broadcaster": {"$oid":"5c1b65064ae1d63ad19368f7"}
+},
+{
+  "Name": "Animal Planet",
+  "Genre": "Infotainment",
+  "Language": "English/Hindi",
+  "MRP": 2,
+  "Quality": "SD",
+  "Broadcaster": {"$oid":"5c1b5435a52fc63ad1038d2f"}
+},
+{
+  "Name": "Discovery Channel",
+  "Genre": "Infotainment",
+  "Language": "English/Hindi",
+  "MRP": 4,
+  "Quality": "SD",
+  "Broadcaster": {"$oid":"5c1b5435a52fc63ad1038d2f"}
+},
+{
+  "Name": "Discovery Channel %u2013 Tamil",
+  "Genre": "Infotainment",
+  "Language": "Tamil",
+  "MRP": 4,
+  "Quality": "SD",
+  "Broadcaster": {"$oid":"5c1b5435a52fc63ad1038d2f"}
+},
+{
+  "Name": "Discovery Kids Channel",
+  "Genre": "Kids",
+  "Language": "English",
+  "MRP": 3,
+  "Quality": "SD",
+  "Broadcaster": {"$oid":"5c1b5435a52fc63ad1038d2f"}
+},
+{
+  "Name": "Discovery Science",
+  "Genre": "Infotainment",
+  "Language": "English/Hindi",
+  "MRP": 1,
+  "Quality": "SD",
+  "Broadcaster": {"$oid":"5c1b5435a52fc63ad1038d2f"}
+},
+{
+  "Name": "Discovery Turbo",
+  "Genre": "Infotainment",
+  "Language": "English/Hindi",
+  "MRP": 1,
+  "Quality": "SD",
+  "Broadcaster": {"$oid":"5c1b5435a52fc63ad1038d2f"}
+},
+{
+  "Name": "Discovery Jeet",
+  "Genre": "GEC",
+  "Language": "Hindi",
+  "MRP": 1,
+  "Quality": "SD",
+  "Broadcaster": {"$oid":"5c1b5435a52fc63ad1038d2f"}
+},
+{
+  "Name": "Discovery HD World",
+  "Genre": "Infotainment",
+  "Language": "English",
+  "MRP": 6,
+  "Quality": "HD",
+  "Broadcaster": {"$oid":"5c1b5435a52fc63ad1038d2f"}
+},
+{
+  "Name": "Animal Planet HD World",
+  "Genre": "Infotainment",
+  "Language": "English/Hindi",
+  "MRP": 3,
+  "Quality": "HD",
+  "Broadcaster": {"$oid":"5c1b5435a52fc63ad1038d2f"}
+},
+{
+  "Name": "TLC HD world",
+  "Genre": "Infotainment",
+  "Language": "English/Hindi",
+  "MRP": 3,
+  "Quality": "HD",
+  "Broadcaster": {"$oid":"5c1b5435a52fc63ad1038d2f"}
+},
+{
+  "Name": "Discovery Jeet HD",
+  "Genre": "GEC",
+  "Language": "Hindi",
+  "MRP": 2,
+  "Quality": "HD",
+  "Broadcaster": {"$oid":"5c1b5435a52fc63ad1038d2f"}
+},
+{
+  "Name": "TLC",
+  "Genre": "Infotainment",
+  "Language": "English/Hindi",
+  "MRP": 2,
+  "Quality": "SD",
+  "Broadcaster": {"$oid":"5c1b5435a52fc63ad1038d2f"}
+},
+{
+  "Name": "Dsport",
+  "Genre": "Sports",
+  "Language": "English",
+  "MRP": 4,
+  "Quality": "SD",
+  "Broadcaster": {"$oid":"5c1b5435a52fc63ad1038d2f"}
+},
+{
+  "Name": "Disney Junior",
+  "Genre": "Kids",
+  "Language": "English",
+  "MRP": 4,
+  "Quality": "SD",
+  "Broadcaster": {"$oid":"5c1b5435a52fc63ad1038d2c"}
+},
+{
+  "Name": "UTV Movies",
+  "Genre": "Movies",
+  "Language": "Hindi",
+  "MRP": 2,
+  "Quality": "SD",
+  "Broadcaster": {"$oid":"5c1b5435a52fc63ad1038d2c"}
+},
+{
+  "Name": "Marvel HQ (Disney XD)",
+  "Genre": "Kids",
+  "Language": "English/Hindi",
+  "MRP": 4,
+  "Quality": "SD",
+  "Broadcaster": {"$oid":"5c1b5435a52fc63ad1038d2c"}
+},
+{
+  "Name": "Disney International HD",
+  "Genre": "GEC",
+  "Language": "English",
+  "MRP": 12,
+  "Quality": "HD",
+  "Broadcaster": {"$oid":"5c1b5435a52fc63ad1038d2c"}
+},
+{
+  "Name": "Hungama TV",
+  "Genre": "Kids",
+  "Language": "English/Hindi",
+  "MRP": 6,
+  "Quality": "SD",
+  "Broadcaster": {"$oid":"5c1b5435a52fc63ad1038d2c"}
+},
+{
+  "Name": "The Disney Channel",
+  "Genre": "Kids",
+  "Language": "English/Hindi",
+  "MRP": 8,
+  "Quality": "SD",
+  "Broadcaster": {"$oid":"5c1b5435a52fc63ad1038d2c"}
+},
+{
+  "Name": "UTV HD",
+  "Genre": "Movies",
+  "Language": "Hindi",
+  "MRP": 8,
+  "Quality": "HD",
+  "Broadcaster": {"$oid":"5c1b5435a52fc63ad1038d2c"}
+},
+{
+  "Name": "ETV",
+  "Genre": "GEC",
+  "Language": "Telugu",
+  "MRP": 17,
+  "Quality": "SD",
+  "Broadcaster": {"$oid":"5c1b5435a52fc63ad1038d2e"}
+},
+{
+  "Name": "ETV Andhra Pradesh",
+  "Genre": "News",
+  "Language": "Telugu",
+  "MRP": 1,
+  "Quality": "SD",
+  "Broadcaster": {"$oid":"5c1b5435a52fc63ad1038d2e"}
+},
+{
+  "Name": "ETV - Telangana",
+  "Genre": "News",
+  "Language": "Telugu",
+  "MRP": 1,
+  "Quality": "SD",
+  "Broadcaster": {"$oid":"5c1b5435a52fc63ad1038d2e"}
+},
+{
+  "Name": "ETV Cinema",
+  "Genre": "Movies",
+  "Language": "Telugu",
+  "MRP": 6,
+  "Quality": "SD",
+  "Broadcaster": {"$oid":"5c1b5435a52fc63ad1038d2e"}
+},
+{
+  "Name": "ETV Life",
+  "Genre": "GEC",
+  "Language": "Telugu",
+  "MRP": 1,
+  "Quality": "SD",
+  "Broadcaster": {"$oid":"5c1b5435a52fc63ad1038d2e"}
+},
+{
+  "Name": "ETV Plus",
+  "Genre": "GEC",
+  "Language": "Telugu",
+  "MRP": 7,
+  "Quality": "SD",
+  "Broadcaster": {"$oid":"5c1b5435a52fc63ad1038d2e"}
+},
+{
+  "Name": "ETV Abhiruchi",
+  "Genre": "GEC",
+  "Language": "Telugu",
+  "MRP": 2,
+  "Quality": "SD",
+  "Broadcaster": {"$oid":"5c1b5435a52fc63ad1038d2e"}
+},
+{
+  "Name": "ETV HD",
+  "Genre": "GEC",
+  "Language": "Telugu",
+  "MRP": 19,
+  "Quality": "HD",
+  "Broadcaster": {"$oid":"5c1b5435a52fc63ad1038d2e"}
+},
+{
+  "Name": "ETV Plus HD",
+  "Genre": "GEC",
+  "Language": "Telugu",
+  "MRP": 10,
+  "Quality": "HD",
+  "Broadcaster": {"$oid":"5c1b5435a52fc63ad1038d2e"}
+},
+{
+  "Name": "ETV Cinema HD",
+  "Genre": "Movies",
+  "Language": "Telugu",
+  "MRP": 10,
+  "Quality": "HD",
+  "Broadcaster": {"$oid":"5c1b5435a52fc63ad1038d2e"}
+},
+{
+  "Name": "ETV Abhiruchi HD",
+  "Genre": "GEC",
+  "Language": "Telugu",
+  "MRP": 4,
+  "Quality": "HD",
+  "Broadcaster": {"$oid":"5c1b5435a52fc63ad1038d2e"}
+},
+{
+  "Name": "ETV Life HD",
+  "Genre": "GEC",
+  "Language": "Telugu",
+  "MRP": 3,
+  "Quality": "HD",
+  "Broadcaster": {"$oid":"5c1b5435a52fc63ad1038d2e"}
+},
+{
+  "Name": "EPIC TV (HD Distribution)",
+  "Genre": "Infotainment",
+  "Language": "English/Hindi",
+  "MRP": 2,
+  "Quality": "HD",
+  "Broadcaster": {"$oid":"5c1b6fd00cca52169ac36c51"}
+},
+{
+  "Name": "UTV Bindass",
+  "Genre": "GEC",
+  "Language": "Hindi",
+  "MRP": 1,
+  "Quality": "SD",
+  "Broadcaster": {"$oid":"5c1b68944ae1d63ad19368fe"}
+},
+{
+  "Name": "UTV Action",
+  "Genre": "Movies",
+  "Language": "Hindi",
+  "MRP": 2,
+  "Quality": "SD",
+  "Broadcaster": {"$oid":"5c1b68944ae1d63ad19368fe"}
+},
+{
+  "Name": "Topper TV",
+  "Genre": "Miscellaneous",
+  "Language": "English",
+  "MRP": 59.32,
+  "Quality": "SD",
+  "Broadcaster": {"$oid":"5c1b702c0cca52169ac36c52"}
+},
+{
+  "Name": "News 18 Lokmat",
+  "Genre": "News",
+  "Language": "Hindi",
+  "MRP": 0.5,
+  "Quality": "SD",
+  "Broadcaster": {"$oid":"5c1b70840cca52169ac36c53"}
+},
+{
+  "Name": "Living Foodz HD",
+  "Genre": "Infotainment",
+  "Language": "Hindi",
+  "MRP": 10,
+  "Quality": "HD",
+  "Broadcaster": {"$oid":"5c1b71110cca52169ac36c54"}
+},
+{
+  "Name": "Living Travelz",
+  "Genre": "Infotainment",
+  "Language": "Hindi",
+  "MRP": 0.1,
+  "Quality": "SD",
+  "Broadcaster": {"$oid":"5c1b71110cca52169ac36c54"}
+},
+{
+  "Name": "Living Rootz",
+  "Genre": "Infotainment",
+  "Language": "Hindi",
+  "MRP": 0.1,
+  "Quality": "SD",
+  "Broadcaster": {"$oid":"5c1b71110cca52169ac36c54"}
+},
+{
+  "Name": "Z Living",
+  "Genre": "Infotainment",
+  "Language": "Hindi",
+  "MRP": 0.1,
+  "Quality": "SD",
+  "Broadcaster": {"$oid":"5c1b71110cca52169ac36c54"}
+},
+{
+  "Name": "J Movies",
+  "Genre": "Movies",
+  "Language": "Tamil",
+  "MRP": 3.75,
+  "Quality": "SD",
+  "Broadcaster": {"$oid":"5c1b5435a52fc63ad1038d27"}
+},
+{
+  "Name": "Jaya Max",
+  "Genre": "Music",
+  "Language": "Tamil",
+  "MRP": 3.75,
+  "Quality": "SD",
+  "Broadcaster": {"$oid":"5c1b5435a52fc63ad1038d27"}
+},
+{
+  "Name": "Jaya Plus",
+  "Genre": "News",
+  "Language": "Tamil",
+  "MRP": 1,
+  "Quality": "SD",
+  "Broadcaster": {"$oid":"5c1b5435a52fc63ad1038d27"}
+},
+{
+  "Name": "Jaya TV HD",
+  "Genre": "GEC",
+  "Language": "Tamil",
+  "MRP": 19,
+  "Quality": "HD",
+  "Broadcaster": {"$oid":"5c1b5435a52fc63ad1038d27"}
+},
+{
+  "Name": "SONY BBC EARTH",
+  "Genre": "Infotainment",
+  "Language": "English/Hindi",
+  "MRP": 4,
+  "Quality": "SD",
+  "Broadcaster": {"$oid":"5c1b71700cca52169ac36c55"}
+},
+{
+  "Name": "SONY BBC EARTH HD",
+  "Genre": "Infotainment",
+  "Language": "English/Hindi",
+  "MRP": 10,
+  "Quality": "HD",
+  "Broadcaster": {"$oid":"5c1b71700cca52169ac36c55"}
+},
+{
+  "Name": "Travel XP",
+  "Genre": "Lifestyle",
+  "Language": "English",
+  "MRP": 3,
+  "Quality": "SD",
+  "Broadcaster": {"$oid":"5c1b71ed0cca52169ac36c56"}
+},
+{
+  "Name": "Good Times",
+  "Genre": "Lifestyle",
+  "Language": "English",
+  "MRP": 1.5,
+  "Quality": "SD",
+  "Broadcaster": {"$oid":"5c1b72290cca52169ac36c57"}
+},
+{
+  "Name": "NDTV 24*7",
+  "Genre": "News",
+  "Language": "English",
+  "MRP": 3,
+  "Quality": "SD",
+  "Broadcaster": {"$oid":"5c1b5435a52fc63ad1038d25"}
+},
+{
+  "Name": "NDTV India",
+  "Genre": "News",
+  "Language": "Hindi",
+  "MRP": 1,
+  "Quality": "SD",
+  "Broadcaster": {"$oid":"5c1b5435a52fc63ad1038d25"}
+},
+{
+  "Name": "NDTV Profit",
+  "Genre": "News",
+  "Language": "English",
+  "MRP": 1,
+  "Quality": "SD",
+  "Broadcaster": {"$oid":"5c1b5435a52fc63ad1038d25"}
+},
+{
+  "Name": "Fox Life",
+  "Genre": "Lifestyle",
+  "Language": "English/Hindi",
+  "MRP": 1,
+  "Quality": "SD",
+  "Broadcaster": {"$oid":"5c1b72a40cca52169ac36c58"}
+},
+{
+  "Name": "National Geographic Channel (NGC)",
+  "Genre": "Infotainment",
+  "Language": "English/Hindi",
+  "MRP": 2,
+  "Quality": "SD",
+  "Broadcaster": {"$oid":"5c1b72a40cca52169ac36c58"}
+},
+{
+  "Name": "Fox Life HD",
+  "Genre": "Lifestyle",
+  "Language": "English/Hindi",
+  "MRP": 1,
+  "Quality": "HD",
+  "Broadcaster": {"$oid":"5c1b72a40cca52169ac36c58"}
+},
+{
+  "Name": "Nat Geo  Wild",
+  "Genre": "Infotainment",
+  "Language": "English/Hindi",
+  "MRP": 1,
+  "Quality": "SD",
+  "Broadcaster": {"$oid":"5c1b72a40cca52169ac36c58"}
+},
+{
+  "Name": "National Geographic HD",
+  "Genre": "Infotainment",
+  "Language": "English/Hindi",
+  "MRP": 10,
+  "Quality": "HD",
+  "Broadcaster": {"$oid":"5c1b72a40cca52169ac36c58"}
+},
+{
+  "Name": "Nat Geo Music HD",
+  "Genre": "Music",
+  "Language": "English/Hindi",
+  "MRP": 1,
+  "Quality": "HD",
+  "Broadcaster": {"$oid":"5c1b72a40cca52169ac36c58"}
+},
+{
+  "Name": "Nat Geo Wild HD",
+  "Genre": "Infotainment",
+  "Language": "English/Hindi",
+  "MRP": 5,
+  "Quality": "HD",
+  "Broadcaster": {"$oid":"5c1b72a40cca52169ac36c58"}
+},
+{
+  "Name": "Nat Geo People HD",
+  "Genre": "Infotainment",
+  "Language": "English/Hindi",
+  "MRP": 1,
+  "Quality": "HD",
+  "Broadcaster": {"$oid":"5c1b72a40cca52169ac36c58"}
+},
+{
+  "Name": "Baby TV HD",
+  "Genre": "Kids",
+  "Language": "English/Hindi",
+  "MRP": 1,
+  "Quality": "HD",
+  "Broadcaster": {"$oid":"5c1b72a40cca52169ac36c58"}
+},
+{
+  "Name": "NHK World Premium (HD Distribution)",
+  "Genre": "Infotainment",
+  "Language": "Japanese",
+  "MRP": 1800,
+  "Quality": "HD",
+  "Broadcaster": {"$oid":"5c1b72f80cca52169ac36c59"}
+},
+{
+  "Name": "Prarthana",
+  "Genre": "Devotional",
+  "Language": "Odia",
+  "MRP": 2,
+  "Quality": "SD",
+  "Broadcaster": {"$oid":"5c1b738f0cca52169ac36c5a"}
+},
+{
+  "Name": "Tarang",
+  "Genre": "GEC",
+  "Language": "Odia",
+  "MRP": 10,
+  "Quality": "SD",
+  "Broadcaster": {"$oid":"5c1b738f0cca52169ac36c5a"}
+},
+{
+  "Name": "Tarang Music",
+  "Genre": "Music",
+  "Language": "Odia",
+  "MRP": 2,
+  "Quality": "SD",
+  "Broadcaster": {"$oid":"5c1b738f0cca52169ac36c5a"}
+},
+{
+  "Name": "Alankar",
+  "Genre": "Movies",
+  "Language": "Odia",
+  "MRP": 4,
+  "Quality": "SD",
+  "Broadcaster": {"$oid":"5c1b738f0cca52169ac36c5a"}
+},
+{
+  "Name": "News 18 Bihar Jharkhand",
+  "Genre": "News",
+  "Language": "Hindi",
+  "MRP": 0.5,
+  "Quality": "SD",
+  "Broadcaster": {"$oid":"5c1b73f00cca52169ac36c5b"}
+},
+{
+  "Name": "News 18 Madhya Pradesh / Chattisgarh",
+  "Genre": "News",
+  "Language": "Hindi",
+  "MRP": 0.5,
+  "Quality": "SD",
+  "Broadcaster": {"$oid":"5c1b73f00cca52169ac36c5b"}
+},
+{
+  "Name": "News 18 Rajasthan",
+  "Genre": "News",
+  "Language": "Hindi",
+  "MRP": 0.5,
+  "Quality": "SD",
+  "Broadcaster": {"$oid":"5c1b73f00cca52169ac36c5b"}
+},
+{
+  "Name": "News 18 Uttar Pradesh/ Uttaranchal",
+  "Genre": "News",
+  "Language": "Hindi",
+  "MRP": 0.5,
+  "Quality": "SD",
+  "Broadcaster": {"$oid":"5c1b73f00cca52169ac36c5b"}
+},
+{
+  "Name": "News 18 Urdu",
+  "Genre": "News",
+  "Language": "Urdu",
+  "MRP": 0.5,
+  "Quality": "SD",
+  "Broadcaster": {"$oid":"5c1b73f00cca52169ac36c5b"}
+},
+{
+  "Name": "News 18 Kannada",
+  "Genre": "News",
+  "Language": "Kannada",
+  "MRP": 0.5,
+  "Quality": "SD",
+  "Broadcaster": {"$oid":"5c1b73f00cca52169ac36c5b"}
+},
+{
+  "Name": "News 18 Bangla",
+  "Genre": "News",
+  "Language": "Bangla",
+  "MRP": 0.5,
+  "Quality": "SD",
+  "Broadcaster": {"$oid":"5c1b73f00cca52169ac36c5b"}
+},
+{
+  "Name": "News 18 Punjab / Haryana / Himanchal Pradesh",
+  "Genre": "News",
+  "Language": "Punjabi",
+  "MRP": 0.5,
+  "Quality": "SD",
+  "Broadcaster": {"$oid":"5c1b73f00cca52169ac36c5b"}
+},
+{
+  "Name": "News 18 Gujarati",
+  "Genre": "News",
+  "Language": "Gujarati",
+  "MRP": 0.5,
+  "Quality": "SD",
+  "Broadcaster": {"$oid":"5c1b73f00cca52169ac36c5b"}
+},
+{
+  "Name": "News 18 Odia",
+  "Genre": "News",
+  "Language": "Odia",
+  "MRP": 0.5,
+  "Quality": "SD",
+  "Broadcaster": {"$oid":"5c1b73f00cca52169ac36c5b"}
+},
+{
+  "Name": "Raj Musix Kannada",
+  "Genre": "Music",
+  "Language": "Kannada",
+  "MRP": 0.25,
+  "Quality": "SD",
+  "Broadcaster": {"$oid":"5c1b5435a52fc63ad1038d2d"}
+},
+{
+  "Name": "Raj Digital Plus",
+  "Genre": "Movies",
+  "Language": "Tamil",
+  "MRP": 1.5,
+  "Quality": "SD",
+  "Broadcaster": {"$oid":"5c1b5435a52fc63ad1038d2d"}
+},
+{
+  "Name": "Raj Musix",
+  "Genre": "Music",
+  "Language": "Tamil",
+  "MRP": 1,
+  "Quality": "SD",
+  "Broadcaster": {"$oid":"5c1b5435a52fc63ad1038d2d"}
+},
+{
+  "Name": "Raj News",
+  "Genre": "News",
+  "Language": "Tamil",
+  "MRP": 0.25,
+  "Quality": "SD",
+  "Broadcaster": {"$oid":"5c1b5435a52fc63ad1038d2d"}
+},
+{
+  "Name": "Raj TV",
+  "Genre": "GEC",
+  "Language": "Tamil",
+  "MRP": 3,
+  "Quality": "SD",
+  "Broadcaster": {"$oid":"5c1b5435a52fc63ad1038d2d"}
+},
+{
+  "Name": "Vissa TV",
+  "Genre": "GEC",
+  "Language": "Telugu",
+  "MRP": 0.5,
+  "Quality": "SD",
+  "Broadcaster": {"$oid":"5c1b5435a52fc63ad1038d2d"}
+},
+{
+  "Name": "Sarthak TV",
+  "Genre": "GEC",
+  "Language": "Odia",
+  "MRP": 19,
+  "Quality": "SD",
+  "Broadcaster": {"$oid":"5c1b745a0cca52169ac36c5c"}
+},
+{
+  "Name": "Mega 24",
+  "Genre": "GEC",
+  "Language": "Tamil",
+  "MRP": 1,
+  "Quality": "SD",
+  "Broadcaster": {"$oid":"5c1b5435a52fc63ad1038d29"}
+},
+{
+  "Name": "Mega Musiq",
+  "Genre": "Music",
+  "Language": "Tamil",
+  "MRP": 2,
+  "Quality": "SD",
+  "Broadcaster": {"$oid":"5c1b5435a52fc63ad1038d29"}
+},
+{
+  "Name": "Mega TV",
+  "Genre": "GEC",
+  "Language": "Tamil",
+  "MRP": 5,
+  "Quality": "SD",
+  "Broadcaster": {"$oid":"5c1b5435a52fc63ad1038d29"}
+},
+{
+  "Name": "Sony YAY!",
+  "Genre": "Kids",
+  "Language": "English",
+  "MRP": 2,
+  "Quality": "SD",
+  "Broadcaster": {"$oid":"5c1b5435a52fc63ad1038d20"}
+},
+{
+  "Name": "AXN",
+  "Genre": "GEC",
+  "Language": "English",
+  "MRP": 5,
+  "Quality": "SD",
+  "Broadcaster": {"$oid":"5c1b5435a52fc63ad1038d20"}
+},
+{
+  "Name": "SET MAX",
+  "Genre": "Movies",
+  "Language": "Hindi",
+  "MRP": 15,
+  "Quality": "SD",
+  "Broadcaster": {"$oid":"5c1b5435a52fc63ad1038d20"}
+},
+{
+  "Name": "MIX",
+  "Genre": "Music",
+  "Language": "Hindi",
+  "MRP": 1,
+  "Quality": "SD",
+  "Broadcaster": {"$oid":"5c1b5435a52fc63ad1038d20"}
+},
+{
+  "Name": "SAB",
+  "Genre": "GEC",
+  "Language": "Hindi",
+  "MRP": 19,
+  "Quality": "SD",
+  "Broadcaster": {"$oid":"5c1b5435a52fc63ad1038d20"}
+},
+{
+  "Name": "SONY ENTERTAINMENT CHANNEL (SET)",
+  "Genre": "GEC",
+  "Language": "Hindi",
+  "MRP": 19,
+  "Quality": "SD",
+  "Broadcaster": {"$oid":"5c1b5435a52fc63ad1038d20"}
+},
+{
+  "Name": "PIX",
+  "Genre": "Movies",
+  "Language": "English",
+  "MRP": 10,
+  "Quality": "SD",
+  "Broadcaster": {"$oid":"5c1b5435a52fc63ad1038d20"}
+},
+{
+  "Name": "SIX",
+  "Genre": "Sports",
+  "Language": "English/Hindi",
+  "MRP": 15,
+  "Quality": "SD",
+  "Broadcaster": {"$oid":"5c1b5435a52fc63ad1038d20"}
+},
+{
+  "Name": "MAX 2",
+  "Genre": "Movies",
+  "Language": "Hindi",
+  "MRP": 1,
+  "Quality": "SD",
+  "Broadcaster": {"$oid":"5c1b5435a52fc63ad1038d20"}
+},
+{
+  "Name": "PAL",
+  "Genre": "GEC",
+  "Language": "Hindi",
+  "MRP": 1,
+  "Quality": "SD",
+  "Broadcaster": {"$oid":"5c1b5435a52fc63ad1038d20"}
+},
+{
+  "Name": "SET HD",
+  "Genre": "GEC",
+  "Language": "Hindi",
+  "MRP": 19,
+  "Quality": "HD",
+  "Broadcaster": {"$oid":"5c1b5435a52fc63ad1038d20"}
+},
+{
+  "Name": "SIX  HD",
+  "Genre": "Sports",
+  "Language": "English/Hindi",
+  "MRP": 19,
+  "Quality": "HD",
+  "Broadcaster": {"$oid":"5c1b5435a52fc63ad1038d20"}
+},
+{
+  "Name": "PIX HD",
+  "Genre": "Movies",
+  "Language": "English",
+  "MRP": 15,
+  "Quality": "HD",
+  "Broadcaster": {"$oid":"5c1b5435a52fc63ad1038d20"}
+},
+{
+  "Name": "MAX HD",
+  "Genre": "Movies",
+  "Language": "Hindi",
+  "MRP": 17,
+  "Quality": "HD",
+  "Broadcaster": {"$oid":"5c1b5435a52fc63ad1038d20"}
+},
+{
+  "Name": "SONY ESPN HD",
+  "Genre": "Sports",
+  "Language": "English/Hindi",
+  "MRP": 7,
+  "Quality": "HD",
+  "Broadcaster": {"$oid":"5c1b5435a52fc63ad1038d20"}
+},
+{
+  "Name": "Ten 2 HD",
+  "Genre": "Sports",
+  "Language": "English/Hindi",
+  "MRP": 17,
+  "Quality": "HD",
+  "Broadcaster": {"$oid":"5c1b5435a52fc63ad1038d20"}
+},
+{
+  "Name": "Ten 3 HD",
+  "Genre": "Sports",
+  "Language": "English/Hindi",
+  "MRP": 17,
+  "Quality": "HD",
+  "Broadcaster": {"$oid":"5c1b5435a52fc63ad1038d20"}
+},
+{
+  "Name": "SONY ESPN",
+  "Genre": "Sports",
+  "Language": "English/Hindi",
+  "MRP": 5,
+  "Quality": "SD",
+  "Broadcaster": {"$oid":"5c1b5435a52fc63ad1038d20"}
+},
+{
+  "Name": "AXN HD",
+  "Genre": "GEC",
+  "Language": "English",
+  "MRP": 7,
+  "Quality": "HD",
+  "Broadcaster": {"$oid":"5c1b5435a52fc63ad1038d20"}
+},
+{
+  "Name": "Ten 2",
+  "Genre": "Sports",
+  "Language": "English/Hindi",
+  "MRP": 15,
+  "Quality": "SD",
+  "Broadcaster": {"$oid":"5c1b5435a52fc63ad1038d20"}
+},
+{
+  "Name": "Ten 1",
+  "Genre": "Sports",
+  "Language": "English",
+  "MRP": 19,
+  "Quality": "SD",
+  "Broadcaster": {"$oid":"5c1b5435a52fc63ad1038d20"}
+},
+{
+  "Name": "Ten 3",
+  "Genre": "Sports",
+  "Language": "English/Hindi",
+  "MRP": 17,
+  "Quality": "SD",
+  "Broadcaster": {"$oid":"5c1b5435a52fc63ad1038d20"}
+},
+{
+  "Name": "Ten 1 HD",
+  "Genre": "Sports",
+  "Language": "English",
+  "MRP": 19,
+  "Quality": "HD",
+  "Broadcaster": {"$oid":"5c1b5435a52fc63ad1038d20"}
+},
+{
+  "Name": "SONY Wah",
+  "Genre": "Movies",
+  "Language": "Hindi",
+  "MRP": 1,
+  "Quality": "SD",
+  "Broadcaster": {"$oid":"5c1b5435a52fc63ad1038d20"}
+},
+{
+  "Name": "SAB HD",
+  "Genre": "GEC",
+  "Language": "Hindi",
+  "MRP": 19,
+  "Quality": "HD",
+  "Broadcaster": {"$oid":"5c1b5435a52fc63ad1038d20"}
+},
+{
+  "Name": "Star Sports 3",
+  "Genre": "Sports",
+  "Language": "English/Hindi",
+  "MRP": 4,
+  "Quality": "SD",
+  "Broadcaster": {"$oid":"5c1b5435a52fc63ad1038d1e"}
+},
+{
+  "Name": "Star Sports 1 Tamil",
+  "Genre": "Sports",
+  "Language": "Tamil",
+  "MRP": 17,
+  "Quality": "SD",
+  "Broadcaster": {"$oid":"5c1b5435a52fc63ad1038d1e"}
+},
+{
+  "Name": "Star Sports Select 2",
+  "Genre": "Sports",
+  "Language": "English/Hindi",
+  "MRP": 7,
+  "Quality": "SD",
+  "Broadcaster": {"$oid":"5c1b5435a52fc63ad1038d1e"}
+},
+{
+  "Name": "Star Bharat",
+  "Genre": "GEC",
+  "Language": "Hindi",
+  "MRP": 10,
+  "Quality": "SD",
+  "Broadcaster": {"$oid":"5c1b5435a52fc63ad1038d1e"}
+},
+{
+  "Name": "Movies OK",
+  "Genre": "Movies",
+  "Language": "Hindi",
+  "MRP": 1,
+  "Quality": "SD",
+  "Broadcaster": {"$oid":"5c1b5435a52fc63ad1038d1e"}
+},
+{
+  "Name": "Star Sports 1 Hindi",
+  "Genre": "Sports",
+  "Language": "Hindi",
+  "MRP": 19,
+  "Quality": "SD",
+  "Broadcaster": {"$oid":"5c1b5435a52fc63ad1038d1e"}
+},
+{
+  "Name": "Star Gold",
+  "Genre": "Movies",
+  "Language": "Hindi",
+  "MRP": 8,
+  "Quality": "SD",
+  "Broadcaster": {"$oid":"5c1b5435a52fc63ad1038d1e"}
+},
+{
+  "Name": "Star Jalsha",
+  "Genre": "GEC",
+  "Language": "Bangla",
+  "MRP": 19,
+  "Quality": "SD",
+  "Broadcaster": {"$oid":"5c1b5435a52fc63ad1038d1e"}
+},
+{
+  "Name": "Star Movies",
+  "Genre": "Movies",
+  "Language": "English",
+  "MRP": 12,
+  "Quality": "SD",
+  "Broadcaster": {"$oid":"5c1b5435a52fc63ad1038d1e"}
+},
+{
+  "Name": "Star Gold Select",
+  "Genre": "Movies",
+  "Language": "Hindi",
+  "MRP": 7,
+  "Quality": "SD",
+  "Broadcaster": {"$oid":"5c1b5435a52fc63ad1038d1e"}
+},
+{
+  "Name": "Star Plus",
+  "Genre": "GEC",
+  "Language": "Hindi",
+  "MRP": 19,
+  "Quality": "SD",
+  "Broadcaster": {"$oid":"5c1b5435a52fc63ad1038d1e"}
+},
+{
+  "Name": "Star Pravah",
+  "Genre": "GEC",
+  "Language": "Marathi",
+  "MRP": 9,
+  "Quality": "SD",
+  "Broadcaster": {"$oid":"5c1b5435a52fc63ad1038d1e"}
+},
+{
+  "Name": "Star Sports 1",
+  "Genre": "Sports",
+  "Language": "English/Hindi",
+  "MRP": 19,
+  "Quality": "SD",
+  "Broadcaster": {"$oid":"5c1b5435a52fc63ad1038d1e"}
+},
+{
+  "Name": "Star Sports 2",
+  "Genre": "Sports",
+  "Language": "English/Hindi",
+  "MRP": 6,
+  "Quality": "SD",
+  "Broadcaster": {"$oid":"5c1b5435a52fc63ad1038d1e"}
+},
+{
+  "Name": "Star World",
+  "Genre": "GEC",
+  "Language": "English",
+  "MRP": 8,
+  "Quality": "SD",
+  "Broadcaster": {"$oid":"5c1b5435a52fc63ad1038d1e"}
+},
+{
+  "Name": "Jalsha Movies",
+  "Genre": "Movies",
+  "Language": "Bangla",
+  "MRP": 6,
+  "Quality": "SD",
+  "Broadcaster": {"$oid":"5c1b5435a52fc63ad1038d1e"}
+},
+{
+  "Name": "Star Sports HD 2",
+  "Genre": "Sports",
+  "Language": "English/Hindi",
+  "MRP": 19,
+  "Quality": "HD",
+  "Broadcaster": {"$oid":"5c1b5435a52fc63ad1038d1e"}
+},
+{
+  "Name": "Star Sports  HD 1",
+  "Genre": "Sports",
+  "Language": "English/Hindi",
+  "MRP": 19,
+  "Quality": "HD",
+  "Broadcaster": {"$oid":"5c1b5435a52fc63ad1038d1e"}
+},
+{
+  "Name": "Star Bharat HD",
+  "Genre": "GEC",
+  "Language": "Hindi",
+  "MRP": 19,
+  "Quality": "HD",
+  "Broadcaster": {"$oid":"5c1b5435a52fc63ad1038d1e"}
+},
+{
+  "Name": "Star Gold HD",
+  "Genre": "Movies",
+  "Language": "Hindi",
+  "MRP": 10,
+  "Quality": "HD",
+  "Broadcaster": {"$oid":"5c1b5435a52fc63ad1038d1e"}
+},
+{
+  "Name": "Star Movies HD",
+  "Genre": "Movies",
+  "Language": "English",
+  "MRP": 19,
+  "Quality": "HD",
+  "Broadcaster": {"$oid":"5c1b5435a52fc63ad1038d1e"}
+},
+{
+  "Name": "Star Plus HD",
+  "Genre": "GEC",
+  "Language": "Hindi",
+  "MRP": 19,
+  "Quality": "HD",
+  "Broadcaster": {"$oid":"5c1b5435a52fc63ad1038d1e"}
+},
+{
+  "Name": "Star World Prmiere HD",
+  "Genre": "GEC",
+  "Language": "English",
+  "MRP": 9,
+  "Quality": "HD",
+  "Broadcaster": {"$oid":"5c1b5435a52fc63ad1038d1e"}
+},
+{
+  "Name": "Star Sports 1 HD Hindi",
+  "Genre": "Sports",
+  "Language": "Hindi",
+  "MRP": 19,
+  "Quality": "HD",
+  "Broadcaster": {"$oid":"5c1b5435a52fc63ad1038d1e"}
+},
+{
+  "Name": "Star Sports Select 1",
+  "Genre": "Sports",
+  "Language": "English/Hindi",
+  "MRP": 19,
+  "Quality": "SD",
+  "Broadcaster": {"$oid":"5c1b5435a52fc63ad1038d1e"}
+},
+{
+  "Name": "Star Movies Select HD",
+  "Genre": "Movies",
+  "Language": "English",
+  "MRP": 10,
+  "Quality": "HD",
+  "Broadcaster": {"$oid":"5c1b5435a52fc63ad1038d1e"}
+},
+{
+  "Name": "Star World HD",
+  "Genre": "GEC",
+  "Language": "English",
+  "MRP": 9,
+  "Quality": "HD",
+  "Broadcaster": {"$oid":"5c1b5435a52fc63ad1038d1e"}
+},
+{
+  "Name": "Star Sports First",
+  "Genre": "Sports",
+  "Language": "English/Hindi",
+  "MRP": 1,
+  "Quality": "SD",
+  "Broadcaster": {"$oid":"5c1b5435a52fc63ad1038d1e"}
+},
+{
+  "Name": "MAA Gold",
+  "Genre": "Movies",
+  "Language": "Telugu",
+  "MRP": 2,
+  "Quality": "SD",
+  "Broadcaster": {"$oid":"5c1b5435a52fc63ad1038d1e"}
+},
+{
+  "Name": "MAA Movies",
+  "Genre": "Movies",
+  "Language": "Telugu",
+  "MRP": 10,
+  "Quality": "SD",
+  "Broadcaster": {"$oid":"5c1b5435a52fc63ad1038d1e"}
+},
+{
+  "Name": "MAA Music",
+  "Genre": "Music",
+  "Language": "Telugu",
+  "MRP": 1,
+  "Quality": "SD",
+  "Broadcaster": {"$oid":"5c1b5435a52fc63ad1038d1e"}
+},
+{
+  "Name": "MAA TV",
+  "Genre": "GEC",
+  "Language": "Telugu",
+  "MRP": 19,
+  "Quality": "SD",
+  "Broadcaster": {"$oid":"5c1b5435a52fc63ad1038d1e"}
+},
+{
+  "Name": "Star Pravah HD",
+  "Genre": "GEC",
+  "Language": "Marathi",
+  "MRP": 15,
+  "Quality": "HD",
+  "Broadcaster": {"$oid":"5c1b5435a52fc63ad1038d1e"}
+},
+{
+  "Name": "Star Jalsha HD",
+  "Genre": "GEC",
+  "Language": "Bangla",
+  "MRP": 19,
+  "Quality": "HD",
+  "Broadcaster": {"$oid":"5c1b5435a52fc63ad1038d1e"}
+},
+{
+  "Name": "Jalsha Movies HD",
+  "Genre": "Movies",
+  "Language": "Bangla",
+  "MRP": 19,
+  "Quality": "HD",
+  "Broadcaster": {"$oid":"5c1b5435a52fc63ad1038d1e"}
+},
+{
+  "Name": "Star Sports Select HD 1",
+  "Genre": "Sports",
+  "Language": "English/Hindi",
+  "MRP": 19,
+  "Quality": "HD",
+  "Broadcaster": {"$oid":"5c1b5435a52fc63ad1038d1e"}
+},
+{
+  "Name": "Star Sports Select HD 2",
+  "Genre": "Sports",
+  "Language": "English/Hindi",
+  "MRP": 10,
+  "Quality": "HD",
+  "Broadcaster": {"$oid":"5c1b5435a52fc63ad1038d1e"}
+},
+{
+  "Name": "MAA HD",
+  "Genre": "GEC",
+  "Language": "Telugu",
+  "MRP": 19,
+  "Quality": "HD",
+  "Broadcaster": {"$oid":"5c1b5435a52fc63ad1038d1e"}
+},
+{
+  "Name": "Star Gold Select HD",
+  "Genre": "Movies",
+  "Language": "Hindi",
+  "MRP": 10,
+  "Quality": "HD",
+  "Broadcaster": {"$oid":"5c1b5435a52fc63ad1038d1e"}
+},
+{
+  "Name": "MAA Movies HD",
+  "Genre": "Movies",
+  "Language": "Telugu",
+  "MRP": 19,
+  "Quality": "HD",
+  "Broadcaster": {"$oid":"5c1b5435a52fc63ad1038d1e"}
+},
+{
+  "Name": "Star Sport 1 Telugu",
+  "Genre": "Sports",
+  "Language": "Telugu",
+  "MRP": 19,
+  "Quality": "SD",
+  "Broadcaster": {"$oid":"5c1b5435a52fc63ad1038d1e"}
+},
+{
+  "Name": "Star Sport 1 Kannada",
+  "Genre": "Sports",
+  "Language": "Kannada",
+  "MRP": 19,
+  "Quality": "SD",
+  "Broadcaster": {"$oid":"5c1b5435a52fc63ad1038d1e"}
+},
+{
+  "Name": "Star Utsav",
+  "Genre": "GEC",
+  "Language": "Hindi",
+  "MRP": 1,
+  "Quality": "SD",
+  "Broadcaster": {"$oid":"5c1b5435a52fc63ad1038d1e"}
+},
+{
+  "Name": "Star Utsav Movies",
+  "Genre": "Movies",
+  "Language": "Hindi",
+  "MRP": 1,
+  "Quality": "SD",
+  "Broadcaster": {"$oid":"5c1b5435a52fc63ad1038d1e"}
+},
+{
+  "Name": "Adithya TV",
+  "Genre": "Movies",
+  "Language": "Tamil",
+  "MRP": 9,
+  "Quality": "SD",
+  "Broadcaster": {"$oid":"5c1b5435a52fc63ad1038d23"}
+},
+{
+  "Name": "Chintu TV",
+  "Genre": "Kids",
+  "Language": "Kannada",
+  "MRP": 6,
+  "Quality": "SD",
+  "Broadcaster": {"$oid":"5c1b5435a52fc63ad1038d23"}
+},
+{
+  "Name": "Chutti TV",
+  "Genre": "Kids",
+  "Language": "Tamil",
+  "MRP": 6,
+  "Quality": "SD",
+  "Broadcaster": {"$oid":"5c1b5435a52fc63ad1038d23"}
+},
+{
+  "Name": "Gemini Comedy",
+  "Genre": "Movies",
+  "Language": "Telugu",
+  "MRP": 5,
+  "Quality": "SD",
+  "Broadcaster": {"$oid":"5c1b5435a52fc63ad1038d23"}
+},
+{
+  "Name": "Gemini Life",
+  "Genre": "GEC",
+  "Language": "Telugu",
+  "MRP": 5,
+  "Quality": "SD",
+  "Broadcaster": {"$oid":"5c1b5435a52fc63ad1038d23"}
+},
+{
+  "Name": "Gemini Movies",
+  "Genre": "Movies",
+  "Language": "Telugu",
+  "MRP": 17,
+  "Quality": "SD",
+  "Broadcaster": {"$oid":"5c1b5435a52fc63ad1038d23"}
+},
+{
+  "Name": "Gemini Music",
+  "Genre": "Music",
+  "Language": "Telugu",
+  "MRP": 4,
+  "Quality": "SD",
+  "Broadcaster": {"$oid":"5c1b5435a52fc63ad1038d23"}
+},
+{
+  "Name": "Gemini News",
+  "Genre": "News",
+  "Language": "Telugu",
+  "MRP": 0.1,
+  "Quality": "SD",
+  "Broadcaster": {"$oid":"5c1b5435a52fc63ad1038d23"}
+},
+{
+  "Name": "Gemini TV",
+  "Genre": "GEC",
+  "Language": "Telugu",
+  "MRP": 19,
+  "Quality": "SD",
+  "Broadcaster": {"$oid":"5c1b5435a52fc63ad1038d23"}
+},
+{
+  "Name": "KTV",
+  "Genre": "Movies",
+  "Language": "Tamil",
+  "MRP": 19,
+  "Quality": "SD",
+  "Broadcaster": {"$oid":"5c1b5435a52fc63ad1038d23"}
+},
+{
+  "Name": "Surya Movies",
+  "Genre": "Movies",
+  "Language": "Malayalam",
+  "MRP": 11,
+  "Quality": "SD",
+  "Broadcaster": {"$oid":"5c1b5435a52fc63ad1038d23"}
+},
+{
+  "Name": "Kushi TV",
+  "Genre": "Kids",
+  "Language": "Telugu",
+  "MRP": 4,
+  "Quality": "SD",
+  "Broadcaster": {"$oid":"5c1b5435a52fc63ad1038d23"}
+},
+{
+  "Name": "SUN Life",
+  "Genre": "GEC",
+  "Language": "Tamil",
+  "MRP": 9,
+  "Quality": "SD",
+  "Broadcaster": {"$oid":"5c1b5435a52fc63ad1038d23"}
+},
+{
+  "Name": "Sun Music",
+  "Genre": "Music",
+  "Language": "Tamil",
+  "MRP": 6,
+  "Quality": "SD",
+  "Broadcaster": {"$oid":"5c1b5435a52fc63ad1038d23"}
+},
+{
+  "Name": "Sun News",
+  "Genre": "News",
+  "Language": "Tamil",
+  "MRP": 1,
+  "Quality": "SD",
+  "Broadcaster": {"$oid":"5c1b5435a52fc63ad1038d23"}
+},
+{
+  "Name": "Surya Music",
+  "Genre": "Music",
+  "Language": "Malayalam",
+  "MRP": 4,
+  "Quality": "SD",
+  "Broadcaster": {"$oid":"5c1b5435a52fc63ad1038d23"}
+},
+{
+  "Name": "SUN TV",
+  "Genre": "GEC",
+  "Language": "Tamil",
+  "MRP": 19,
+  "Quality": "SD",
+  "Broadcaster": {"$oid":"5c1b5435a52fc63ad1038d23"}
+},
+{
+  "Name": "Surya Comedy",
+  "Genre": "Movies",
+  "Language": "Malayalam",
+  "MRP": 4,
+  "Quality": "SD",
+  "Broadcaster": {"$oid":"5c1b5435a52fc63ad1038d23"}
+},
+{
+  "Name": "Surya TV",
+  "Genre": "GEC",
+  "Language": "Malayalam",
+  "MRP": 12,
+  "Quality": "SD",
+  "Broadcaster": {"$oid":"5c1b5435a52fc63ad1038d23"}
+},
+{
+  "Name": "Udaya Comedy",
+  "Genre": "Movies",
+  "Language": "Kannada",
+  "MRP": 6,
+  "Quality": "SD",
+  "Broadcaster": {"$oid":"5c1b5435a52fc63ad1038d23"}
+},
+{
+  "Name": "Udaya Movies",
+  "Genre": "Movies",
+  "Language": "Kannada",
+  "MRP": 16,
+  "Quality": "SD",
+  "Broadcaster": {"$oid":"5c1b5435a52fc63ad1038d23"}
+},
+{
+  "Name": "Udaya Music",
+  "Genre": "Music",
+  "Language": "Kannada",
+  "MRP": 6,
+  "Quality": "SD",
+  "Broadcaster": {"$oid":"5c1b5435a52fc63ad1038d23"}
+},
+{
+  "Name": "Udaya News",
+  "Genre": "News",
+  "Language": "Kannada",
+  "MRP": 0.1,
+  "Quality": "SD",
+  "Broadcaster": {"$oid":"5c1b5435a52fc63ad1038d23"}
+},
+{
+  "Name": "Udaya TV",
+  "Genre": "GEC",
+  "Language": "Kannada",
+  "MRP": 17,
+  "Quality": "SD",
+  "Broadcaster": {"$oid":"5c1b5435a52fc63ad1038d23"}
+},
+{
+  "Name": "Kochu TV",
+  "Genre": "Kids",
+  "Language": "Malayalam",
+  "MRP": 5,
+  "Quality": "SD",
+  "Broadcaster": {"$oid":"5c1b5435a52fc63ad1038d23"}
+},
+{
+  "Name": "Sun TV HD",
+  "Genre": "GEC",
+  "Language": "Tamil",
+  "MRP": 19,
+  "Quality": "HD",
+  "Broadcaster": {"$oid":"5c1b5435a52fc63ad1038d23"}
+},
+{
+  "Name": "KTV HD",
+  "Genre": "Movies",
+  "Language": "Tamil",
+  "MRP": 19,
+  "Quality": "HD",
+  "Broadcaster": {"$oid":"5c1b5435a52fc63ad1038d23"}
+},
+{
+  "Name": "Sun Music HD",
+  "Genre": "Music",
+  "Language": "Tamil",
+  "MRP": 19,
+  "Quality": "HD",
+  "Broadcaster": {"$oid":"5c1b5435a52fc63ad1038d23"}
+},
+{
+  "Name": "Gemini TV HD",
+  "Genre": "GEC",
+  "Language": "Telugu",
+  "MRP": 19,
+  "Quality": "HD",
+  "Broadcaster": {"$oid":"5c1b5435a52fc63ad1038d23"}
+},
+{
+  "Name": "Gemini Music HD",
+  "Genre": "Music",
+  "Language": "Telugu",
+  "MRP": 19,
+  "Quality": "HD",
+  "Broadcaster": {"$oid":"5c1b5435a52fc63ad1038d23"}
+},
+{
+  "Name": "Gemini Movies HD",
+  "Genre": "Movies",
+  "Language": "Telugu",
+  "MRP": 19,
+  "Quality": "HD",
+  "Broadcaster": {"$oid":"5c1b5435a52fc63ad1038d23"}
+},
+{
+  "Name": "Surya TV HD",
+  "Genre": "GEC",
+  "Language": "Malayalam",
+  "MRP": 19,
+  "Quality": "HD",
+  "Broadcaster": {"$oid":"5c1b5435a52fc63ad1038d23"}
+},
+{
+  "Name": "Udaya TV HD",
+  "Genre": "GEC",
+  "Language": "Kannada",
+  "MRP": 19,
+  "Quality": "HD",
+  "Broadcaster": {"$oid":"5c1b5435a52fc63ad1038d23"}
+},
+{
+  "Name": "Food Food TV",
+  "Genre": "Infotainment",
+  "Language": "Hindi",
+  "MRP": 0.3,
+  "Quality": "SD",
+  "Broadcaster": {"$oid":"5c1b75250cca52169ac36c5d"}
+},
+{
+  "Name": "Cartoon Network",
+  "Genre": "Kids",
+  "Language": "Hindi",
+  "MRP": 4.25,
+  "Quality": "SD",
+  "Broadcaster": {"$oid":"5c1b5435a52fc63ad1038d2a"}
+},
+{
+  "Name": "CNN International",
+  "Genre": "News",
+  "Language": "English",
+  "MRP": 0.5,
+  "Quality": "SD",
+  "Broadcaster": {"$oid":"5c1b5435a52fc63ad1038d2a"}
+},
+{
+  "Name": "HBO",
+  "Genre": "Movies",
+  "Language": "English",
+  "MRP": 10,
+  "Quality": "SD",
+  "Broadcaster": {"$oid":"5c1b5435a52fc63ad1038d2a"}
+},
+{
+  "Name": "POGO",
+  "Genre": "Kids",
+  "Language": "Hindi",
+  "MRP": 4.25,
+  "Quality": "SD",
+  "Broadcaster": {"$oid":"5c1b5435a52fc63ad1038d2a"}
+},
+{
+  "Name": "Cartoon Network HD+",
+  "Genre": "Kids",
+  "Language": "Hindi",
+  "MRP": 10,
+  "Quality": "HD",
+  "Broadcaster": {"$oid":"5c1b5435a52fc63ad1038d2a"}
+},
+{
+  "Name": "WB",
+  "Genre": "Movies",
+  "Language": "English",
+  "MRP": 1,
+  "Quality": "SD",
+  "Broadcaster": {"$oid":"5c1b5435a52fc63ad1038d2a"}
+},
+{
+  "Name": "HBO HD",
+  "Genre": "Movies",
+  "Language": "English",
+  "MRP": 15,
+  "Quality": "HD",
+  "Broadcaster": {"$oid":"5c1b5435a52fc63ad1038d2a"}
+},
+{
+  "Name": "CNN News 18",
+  "Genre": "News",
+  "Language": "English",
+  "MRP": 2,
+  "Quality": "SD",
+  "Broadcaster": {"$oid":"5c1b5435a52fc63ad1038d21"}
+},
+{
+  "Name": "CNBC Bajaar",
+  "Genre": "News",
+  "Language": "Gujarati",
+  "MRP": 1,
+  "Quality": "SD",
+  "Broadcaster": {"$oid":"5c1b5435a52fc63ad1038d21"}
+},
+{
+  "Name": "CNBC TV 18 Prime HD",
+  "Genre": "News",
+  "Language": "English",
+  "MRP": 1,
+  "Quality": "HD",
+  "Broadcaster": {"$oid":"5c1b5435a52fc63ad1038d21"}
+},
+{
+  "Name": "",
+  "Genre": "News",
+  "Language": "Hindi",
+  "MRP": 1,
+  "Quality": "SD",
+  "Broadcaster": {"$oid":"5c1b5435a52fc63ad1038d21"}
+},
+{
+  "Name": "News 18 Tamil Nadu",
+  "Genre": "News",
+  "Language": "Tamil",
+  "MRP": 0.5,
+  "Quality": "SD",
+  "Broadcaster": {"$oid":"5c1b5435a52fc63ad1038d21"}
+},
+{
+  "Name": "News 18 Kerala",
+  "Genre": "News",
+  "Language": "Malayalam",
+  "MRP": 0.5,
+  "Quality": "SD",
+  "Broadcaster": {"$oid":"5c1b5435a52fc63ad1038d21"}
+},
+{
+  "Name": "News 18 Assam / North East",
+  "Genre": "News",
+  "Language": "Assamese",
+  "MRP": 0.5,
+  "Quality": "SD",
+  "Broadcaster": {"$oid":"5c1b5435a52fc63ad1038d21"}
+},
+{
+  "Name": "News 18 India",
+  "Genre": "News",
+  "Language": "Hindi",
+  "MRP": 1,
+  "Quality": "SD",
+  "Broadcaster": {"$oid":"5c1b5435a52fc63ad1038d21"}
+},
+{
+  "Name": "CNBC TV 18",
+  "Genre": "News",
+  "Language": "English",
+  "MRP": 4,
+  "Quality": "SD",
+  "Broadcaster": {"$oid":"5c1b5435a52fc63ad1038d21"}
+},
+{
+  "Name": "Aaj Tak",
+  "Genre": "News",
+  "Language": "Hindi",
+  "MRP": 1,
+  "Quality": "SD",
+  "Broadcaster": {"$oid":"5c1b5435a52fc63ad1038d24"}
+},
+{
+  "Name": "India Today",
+  "Genre": "News",
+  "Language": "English",
+  "MRP": 1.5,
+  "Quality": "SD",
+  "Broadcaster": {"$oid":"5c1b5435a52fc63ad1038d24"}
+},
+{
+  "Name": "AAJ Tak HD",
+  "Genre": "News",
+  "Language": "Hindi",
+  "MRP": 2,
+  "Quality": "HD",
+  "Broadcaster": {"$oid":"5c1b5435a52fc63ad1038d24"}
+},
+{
+  "Name": "Aaj Tak Tez",
+  "Genre": "News",
+  "Language": "Hindi",
+  "MRP": 0.5,
+  "Quality": "SD",
+  "Broadcaster": {"$oid":"5c1b5435a52fc63ad1038d24"}
+},
+{
+  "Name": "Colors",
+  "Genre": "GEC",
+  "Language": "Hindi",
+  "MRP": 19,
+  "Quality": "SD",
+  "Broadcaster": {"$oid":"5c1b75cd0cca52169ac36c5e"}
+},
+{
+  "Name": "Comedy Central (HD Distribution)",
+  "Genre": "GEC",
+  "Language": "English",
+  "MRP": 9,
+  "Quality": "HD",
+  "Broadcaster": {"$oid":"5c1b75cd0cca52169ac36c5e"}
+},
+{
+  "Name": "MTV",
+  "Genre": "Music",
+  "Language": "Hindi",
+  "MRP": 3,
+  "Quality": "SD",
+  "Broadcaster": {"$oid":"5c1b75cd0cca52169ac36c5e"}
+},
+{
+  "Name": "NICK",
+  "Genre": "Kids",
+  "Language": "Hindi",
+  "MRP": 6,
+  "Quality": "SD",
+  "Broadcaster": {"$oid":"5c1b75cd0cca52169ac36c5e"}
+},
+{
+  "Name": "NICK JR",
+  "Genre": "Kids",
+  "Language": "English",
+  "MRP": 8,
+  "Quality": "SD",
+  "Broadcaster": {"$oid":"5c1b75cd0cca52169ac36c5e"}
+},
+{
+  "Name": "SONIC",
+  "Genre": "Kids",
+  "Language": "Hindi",
+  "MRP": 2,
+  "Quality": "SD",
+  "Broadcaster": {"$oid":"5c1b75cd0cca52169ac36c5e"}
+},
+{
+  "Name": "VH 1 (HD Distribution)",
+  "Genre": "Music",
+  "Language": "English",
+  "MRP": 2,
+  "Quality": "HD",
+  "Broadcaster": {"$oid":"5c1b75cd0cca52169ac36c5e"}
+},
+{
+  "Name": "Colors Infinity HD",
+  "Genre": "GEC",
+  "Language": "English",
+  "MRP": 9,
+  "Quality": "HD",
+  "Broadcaster": {"$oid":"5c1b75cd0cca52169ac36c5e"}
+},
+{
+  "Name": "Colors Infinity",
+  "Genre": "GEC",
+  "Language": "English",
+  "MRP": 7,
+  "Quality": "SD",
+  "Broadcaster": {"$oid":"5c1b75cd0cca52169ac36c5e"}
+},
+{
+  "Name": "Colors HD",
+  "Genre": "GEC",
+  "Language": "Hindi",
+  "MRP": 19,
+  "Quality": "HD",
+  "Broadcaster": {"$oid":"5c1b75cd0cca52169ac36c5e"}
+},
+{
+  "Name": "NICKS HD+",
+  "Genre": "Kids",
+  "Language": "Hindi",
+  "MRP": 10,
+  "Quality": "HD",
+  "Broadcaster": {"$oid":"5c1b75cd0cca52169ac36c5e"}
+},
+{
+  "Name": "Rishtey Cineplex",
+  "Genre": "Movies",
+  "Language": "Hindi",
+  "MRP": 3,
+  "Quality": "SD",
+  "Broadcaster": {"$oid":"5c1b75cd0cca52169ac36c5e"}
+},
+{
+  "Name": "MTV Beats",
+  "Genre": "Music",
+  "Language": "Hindi",
+  "MRP": 0.5,
+  "Quality": "SD",
+  "Broadcaster": {"$oid":"5c1b75cd0cca52169ac36c5e"}
+},
+{
+  "Name": "Colors Kannada HD",
+  "Genre": "GEC",
+  "Language": "Kannada",
+  "MRP": 19,
+  "Quality": "HD",
+  "Broadcaster": {"$oid":"5c1b75cd0cca52169ac36c5e"}
+},
+{
+  "Name": "Colors Marathi HD",
+  "Genre": "GEC",
+  "Language": "Marathi",
+  "MRP": 19,
+  "Quality": "HD",
+  "Broadcaster": {"$oid":"5c1b75cd0cca52169ac36c5e"}
+},
+{
+  "Name": "Colors Bangla HD",
+  "Genre": "GEC",
+  "Language": "Bangla",
+  "MRP": 14,
+  "Quality": "HD",
+  "Broadcaster": {"$oid":"5c1b75cd0cca52169ac36c5e"}
+},
+{
+  "Name": "Colors Super",
+  "Genre": "GEC",
+  "Language": "Kannada",
+  "MRP": 8,
+  "Quality": "SD",
+  "Broadcaster": {"$oid":"5c1b75cd0cca52169ac36c5e"}
+},
+{
+  "Name": "Colors Bangla",
+  "Genre": "GEC",
+  "Language": "Bangla",
+  "MRP": 11,
+  "Quality": "SD",
+  "Broadcaster": {"$oid":"5c1b75cd0cca52169ac36c5e"}
+},
+{
+  "Name": "Colors Gujarati",
+  "Genre": "GEC",
+  "Language": "Gujarati",
+  "MRP": 8,
+  "Quality": "SD",
+  "Broadcaster": {"$oid":"5c1b75cd0cca52169ac36c5e"}
+},
+{
+  "Name": "Colors Kannada",
+  "Genre": "GEC",
+  "Language": "Kannada",
+  "MRP": 19,
+  "Quality": "SD",
+  "Broadcaster": {"$oid":"5c1b75cd0cca52169ac36c5e"}
+},
+{
+  "Name": "Colors Marathi",
+  "Genre": "GEC",
+  "Language": "Marathi",
+  "MRP": 15,
+  "Quality": "SD",
+  "Broadcaster": {"$oid":"5c1b75cd0cca52169ac36c5e"}
+},
+{
+  "Name": "Colors Oriya",
+  "Genre": "GEC",
+  "Language": "Oriya",
+  "MRP": 6,
+  "Quality": "SD",
+  "Broadcaster": {"$oid":"5c1b75cd0cca52169ac36c5e"}
+},
+{
+  "Name": "MTV Beats HD",
+  "Genre": "Music",
+  "Language": "Hindi",
+  "MRP": 1,
+  "Quality": "HD",
+  "Broadcaster": {"$oid":"5c1b75cd0cca52169ac36c5e"}
+},
+{
+  "Name": "Colors Tamil",
+  "Genre": "GEC",
+  "Language": "Tamil",
+  "MRP": 3,
+  "Quality": "SD",
+  "Broadcaster": {"$oid":"5c1b75cd0cca52169ac36c5e"}
+},
+{
+  "Name": "Cineplex HD",
+  "Genre": "Movies",
+  "Language": "Hindi",
+  "MRP": 5,
+  "Quality": "HD",
+  "Broadcaster": {"$oid":"5c1b75cd0cca52169ac36c5e"}
+},
+{
+  "Name": "VH 1",
+  "Genre": "Music",
+  "Language": "English",
+  "MRP": 1,
+  "Quality": "SD",
+  "Broadcaster": {"$oid":"5c1b75cd0cca52169ac36c5e"}
+},
+{
+  "Name": "Colors Tamil HD",
+  "Genre": "GEC",
+  "Language": "Tamil",
+  "MRP": 7,
+  "Quality": "HD",
+  "Broadcaster": {"$oid":"5c1b75cd0cca52169ac36c5e"}
+},
+{
+  "Name": "MTV HD+",
+  "Genre": "Music",
+  "Language": "Hindi",
+  "MRP": 5,
+  "Quality": "HD",
+  "Broadcaster": {"$oid":"5c1b75cd0cca52169ac36c5e"}
+},
+{
+  "Name": "Rishtey",
+  "Genre": "GEC",
+  "Language": "Hindi",
+  "MRP": 1,
+  "Quality": "SD",
+  "Broadcaster": {"$oid":"5c1b75cd0cca52169ac36c5e"}
+},
+{
+  "Name": "Colors Kannada Cinema",
+  "Genre": "Movies",
+  "Language": "Kannada",
+  "MRP": 2,
+  "Quality": "SD",
+  "Broadcaster": {"$oid":"5c1b75cd0cca52169ac36c5e"}
+},
+{
+  "Name": "Comedy Gujarati Cinema",
+  "Genre": "Movies",
+  "Language": "Gujarati",
+  "MRP": 1,
+  "Quality": "SD",
+  "Broadcaster": {"$oid":"5c1b75cd0cca52169ac36c5e"}
+},
+{
+  "Name": "Comedy Central",
+  "Genre": "GEC",
+  "Language": "English",
+  "MRP": 7,
+  "Quality": "SD",
+  "Broadcaster": {"$oid":"5c1b75cd0cca52169ac36c5e"}
+},
+{
+  "Name": "Vijay TV",
+  "Genre": "GEC",
+  "Language": "Tamil",
+  "MRP": 17,
+  "Quality": "SD",
+  "Broadcaster": {"$oid":"5c1b761b0cca52169ac36c5f"}
+},
+{
+  "Name": "Vijay Super",
+  "Genre": "GEC",
+  "Language": "Tamil",
+  "MRP": 2,
+  "Quality": "SD",
+  "Broadcaster": {"$oid":"5c1b761b0cca52169ac36c5f"}
+},
+{
+  "Name": "Vijay HD",
+  "Genre": "GEC",
+  "Language": "Tamil",
+  "MRP": 19,
+  "Quality": "HD",
+  "Broadcaster": {"$oid":"5c1b761b0cca52169ac36c5f"}
+},
+{
+  "Name": "24 Ghanta",
+  "Genre": "News",
+  "Language": "Bangla",
+  "MRP": 0.5,
+  "Quality": "SD",
+  "Broadcaster": {"$oid":"5c1b76780cca52169ac36c60"}
+},
+{
+  "Name": "Zee Bollywood",
+  "Genre": "Movies",
+  "Language": "Hindi",
+  "MRP": 2,
+  "Quality": "SD",
+  "Broadcaster": {"$oid":"5c1b5435a52fc63ad1038d1f"}
+},
+{
+  "Name": "Zee Action",
+  "Genre": "Movies",
+  "Language": "Hindi",
+  "MRP": 1,
+  "Quality": "SD",
+  "Broadcaster": {"$oid":"5c1b5435a52fc63ad1038d1f"}
+},
+{
+  "Name": "Zee Bangla Cinema",
+  "Genre": "Movies",
+  "Language": "Bangla",
+  "MRP": 8,
+  "Quality": "SD",
+  "Broadcaster": {"$oid":"5c1b5435a52fc63ad1038d1f"}
+},
+{
+  "Name": "Zee Caf� HD",
+  "Genre": "GEC",
+  "Language": "English",
+  "MRP": 19,
+  "Quality": "HD",
+  "Broadcaster": {"$oid":"5c1b5435a52fc63ad1038d1f"}
+},
+{
+  "Name": "Zee Caf�",
+  "Genre": "GEC",
+  "Language": "English",
+  "MRP": 15,
+  "Quality": "SD",
+  "Broadcaster": {"$oid":"5c1b5435a52fc63ad1038d1f"}
+},
+{
+  "Name": "Zee Cinema",
+  "Genre": "Movies",
+  "Language": "Hindi",
+  "MRP": 19,
+  "Quality": "SD",
+  "Broadcaster": {"$oid":"5c1b5435a52fc63ad1038d1f"}
+},
+{
+  "Name": "Zee Talkies",
+  "Genre": "Movies",
+  "Language": "Marathi",
+  "MRP": 17,
+  "Quality": "SD",
+  "Broadcaster": {"$oid":"5c1b5435a52fc63ad1038d1f"}
+},
+{
+  "Name": "Zee TV",
+  "Genre": "GEC",
+  "Language": "Hindi",
+  "MRP": 19,
+  "Quality": "SD",
+  "Broadcaster": {"$oid":"5c1b5435a52fc63ad1038d1f"}
+},
+{
+  "Name": "Zing",
+  "Genre": "Music",
+  "Language": "Hindi",
+  "MRP": 1,
+  "Quality": "SD",
+  "Broadcaster": {"$oid":"5c1b5435a52fc63ad1038d1f"}
+},
+{
+  "Name": "& Picture",
+  "Genre": "Movies",
+  "Language": "Hindi",
+  "MRP": 10,
+  "Quality": "SD",
+  "Broadcaster": {"$oid":"5c1b5435a52fc63ad1038d1f"}
+},
+{
+  "Name": "Zee Bangla",
+  "Genre": "GEC",
+  "Language": "Bangla",
+  "MRP": 19,
+  "Quality": "SD",
+  "Broadcaster": {"$oid":"5c1b5435a52fc63ad1038d1f"}
+},
+{
+  "Name": "Zee Marathi",
+  "Genre": "GEC",
+  "Language": "Marathi",
+  "MRP": 19,
+  "Quality": "SD",
+  "Broadcaster": {"$oid":"5c1b5435a52fc63ad1038d1f"}
+},
+{
+  "Name": "Living Foodz",
+  "Genre": "Infotainment",
+  "Language": "English/Hindi",
+  "MRP": 1,
+  "Quality": "SD",
+  "Broadcaster": {"$oid":"5c1b5435a52fc63ad1038d1f"}
+},
+{
+  "Name": "Zee TV HD",
+  "Genre": "GEC",
+  "Language": "Hindi",
+  "MRP": 19,
+  "Quality": "HD",
+  "Broadcaster": {"$oid":"5c1b5435a52fc63ad1038d1f"}
+},
+{
+  "Name": "Zee Cinema HD",
+  "Genre": "Movies",
+  "Language": "Hindi",
+  "MRP": 19,
+  "Quality": "HD",
+  "Broadcaster": {"$oid":"5c1b5435a52fc63ad1038d1f"}
+},
+{
+  "Name": "& TV",
+  "Genre": "GEC",
+  "Language": "Hindi",
+  "MRP": 12,
+  "Quality": "SD",
+  "Broadcaster": {"$oid":"5c1b5435a52fc63ad1038d1f"}
+},
+{
+  "Name": "& TV HD",
+  "Genre": "GEC",
+  "Language": "Hindi",
+  "MRP": 19,
+  "Quality": "HD",
+  "Broadcaster": {"$oid":"5c1b5435a52fc63ad1038d1f"}
+},
+{
+  "Name": "Zee Kannada",
+  "Genre": "GEC",
+  "Language": "Kannada",
+  "MRP": 19,
+  "Quality": "SD",
+  "Broadcaster": {"$oid":"5c1b5435a52fc63ad1038d1f"}
+},
+{
+  "Name": "Zee Telugu",
+  "Genre": "GEC",
+  "Language": "Telugu",
+  "MRP": 19,
+  "Quality": "SD",
+  "Broadcaster": {"$oid":"5c1b5435a52fc63ad1038d1f"}
+},
+{
+  "Name": "& Pictures HD",
+  "Genre": "Movies",
+  "Language": "English/Hindi",
+  "MRP": 19,
+  "Quality": "HD",
+  "Broadcaster": {"$oid":"5c1b5435a52fc63ad1038d1f"}
+},
+{
+  "Name": "Zee Cinemalu",
+  "Genre": "Movies",
+  "Language": "Telugu",
+  "MRP": 10,
+  "Quality": "SD",
+  "Broadcaster": {"$oid":"5c1b5435a52fc63ad1038d1f"}
+},
+{
+  "Name": "Zee Yuva",
+  "Genre": "GEC",
+  "Language": "Marathi",
+  "MRP": 10,
+  "Quality": "SD",
+  "Broadcaster": {"$oid":"5c1b5435a52fc63ad1038d1f"}
+},
+{
+  "Name": "Zee Marathi HD",
+  "Genre": "GEC",
+  "Language": "Marathi",
+  "MRP": 19,
+  "Quality": "HD",
+  "Broadcaster": {"$oid":"5c1b5435a52fc63ad1038d1f"}
+},
+{
+  "Name": "Living Zen",
+  "Genre": "Infotainment",
+  "Language": "Hindi",
+  "MRP": 0.1,
+  "Quality": "SD",
+  "Broadcaster": {"$oid":"5c1b5435a52fc63ad1038d1f"}
+},
+{
+  "Name": "& Prive HD",
+  "Genre": "Movies",
+  "Language": "English",
+  "MRP": 19,
+  "Quality": "HD",
+  "Broadcaster": {"$oid":"5c1b5435a52fc63ad1038d1f"}
+},
+{
+  "Name": "Zee Bangla HD",
+  "Genre": "GEC",
+  "Language": "Bangla",
+  "MRP": 19,
+  "Quality": "HD",
+  "Broadcaster": {"$oid":"5c1b5435a52fc63ad1038d1f"}
+},
+{
+  "Name": "Zee Tamil HD",
+  "Genre": "GEC",
+  "Language": "Tamil",
+  "MRP": 19,
+  "Quality": "HD",
+  "Broadcaster": {"$oid":"5c1b5435a52fc63ad1038d1f"}
+},
+{
+  "Name": "Zee Cinemalu HD",
+  "Genre": "Movies",
+  "Language": "Telugu",
+  "MRP": 16,
+  "Quality": "HD",
+  "Broadcaster": {"$oid":"5c1b5435a52fc63ad1038d1f"}
+},
+{
+  "Name": "Zee Telugu HD",
+  "Genre": "GEC",
+  "Language": "Telugu",
+  "MRP": 19,
+  "Quality": "HD",
+  "Broadcaster": {"$oid":"5c1b5435a52fc63ad1038d1f"}
+},
+{
+  "Name": "Zee Tamil",
+  "Genre": "GEC",
+  "Language": "Tamil",
+  "MRP": 12,
+  "Quality": "SD",
+  "Broadcaster": {"$oid":"5c1b5435a52fc63ad1038d1f"}
+},
+{
+  "Name": "Zee Kannada HD",
+  "Genre": "GEC",
+  "Language": "Kannada",
+  "MRP": 19,
+  "Quality": "HD",
+  "Broadcaster": {"$oid":"5c1b5435a52fc63ad1038d1f"}
+},
+{
+  "Name": "Zee Anmol Cinema",
+  "Genre": "Movies",
+  "Language": "Hindi",
+  "MRP": 1,
+  "Quality": "SD",
+  "Broadcaster": {"$oid":"5c1b5435a52fc63ad1038d1f"}
+},
+{
+  "Name": "& Flix HD",
+  "Genre": "Movies",
+  "Language": "English",
+  "MRP": 19,
+  "Quality": "HD",
+  "Broadcaster": {"$oid":"5c1b5435a52fc63ad1038d1f"}
+},
+{
+  "Name": "& Flix",
+  "Genre": "Movies",
+  "Language": "English",
+  "MRP": 15,
+  "Quality": "SD",
+  "Broadcaster": {"$oid":"5c1b5435a52fc63ad1038d1f"}
+},
+{
+  "Name": "Zee Keralam HD",
+  "Genre": "GEC",
+  "Language": "Malayalam",
+  "MRP": 8,
+  "Quality": "HD",
+  "Broadcaster": {"$oid":"5c1b5435a52fc63ad1038d1f"}
+},
+{
+  "Name": "Zee Keralam",
+  "Genre": "GEC",
+  "Language": "Malayalam",
+  "MRP": 0.1,
+  "Quality": "SD",
+  "Broadcaster": {"$oid":"5c1b5435a52fc63ad1038d1f"}
+},
+{
+  "Name": "Zee ETC",
+  "Genre": "Music",
+  "Language": "Hindi",
+  "MRP": 1,
+  "Quality": "SD",
+  "Broadcaster": {"$oid":"5c1b5435a52fc63ad1038d1f"}
+},
+{
+  "Name": "Zee Anmol",
+  "Genre": "GEC",
+  "Language": "Hindi",
+  "MRP": 1,
+  "Quality": "SD",
+  "Broadcaster": {"$oid":"5c1b5435a52fc63ad1038d1f"}
+},
+{
+  "Name": "Big Magic",
+  "Genre": "GEC",
+  "Language": "Hindi",
+  "MRP": 1,
+  "Quality": "SD",
+  "Broadcaster": {"$oid":"5c1b5435a52fc63ad1038d1f"}
+},
+{
+  "Name": "Big Ganga",
+  "Genre": "GEC",
+  "Language": "Bhojpuri",
+  "MRP": 2,
+  "Quality": "SD",
+  "Broadcaster": {"$oid":"5c1b5435a52fc63ad1038d1f"}
+},
+{
+  "Name": "Zee Talkies HD",
+  "Genre": "Movies",
+  "Language": "Marathi",
+  "MRP": 19,
+  "Quality": "HD",
+  "Broadcaster": {"$oid":"5c1b5435a52fc63ad1038d1f"}
+},
+{
+  "Name": "Zee 24 Taas",
+  "Genre": "News",
+  "Language": "Marathi",
+  "MRP": 0.5,
+  "Quality": "SD",
+  "Broadcaster": {"$oid":"5c1b76d90cca52169ac36c61"}
+},
+{
+  "Name": "Zee Kalinga",
+  "Genre": "News",
+  "Language": "Odia",
+  "MRP": 0.5,
+  "Quality": "SD",
+  "Broadcaster": {"$oid":"5c1b76d90cca52169ac36c61"}
+},
+{
+  "Name": "Zee Business",
+  "Genre": "News",
+  "Language": "Hindi",
+  "MRP": 0.5,
+  "Quality": "SD",
+  "Broadcaster": {"$oid":"5c1b76d90cca52169ac36c61"}
+},
+{
+  "Name": "Zee Punjab Haryana Himachal",
+  "Genre": "News",
+  "Language": "Hindi",
+  "MRP": 0.5,
+  "Quality": "SD",
+  "Broadcaster": {"$oid":"5c1b76d90cca52169ac36c61"}
+},
+{
+  "Name": "Zee Madhya Pradesh Chattisgarh",
+  "Genre": "News",
+  "Language": "Hindi",
+  "MRP": 0.5,
+  "Quality": "SD",
+  "Broadcaster": {"$oid":"5c1b76d90cca52169ac36c61"}
+},
+{
+  "Name": "Zee Salaam",
+  "Genre": "News",
+  "Language": "Urdu",
+  "MRP": 1,
+  "Quality": "SD",
+  "Broadcaster": {"$oid":"5c1b76d90cca52169ac36c61"}
+},
+{
+  "Name": "Zee 24 Kalak",
+  "Genre": "News",
+  "Language": "Hindi",
+  "MRP": 0.5,
+  "Quality": "SD",
+  "Broadcaster": {"$oid":"5c1b76d90cca52169ac36c61"}
+},
+{
+  "Name": "WION",
+  "Genre": "News",
+  "Language": "Hindi",
+  "MRP": 1,
+  "Quality": "SD",
+  "Broadcaster": {"$oid":"5c1b76d90cca52169ac36c61"}
+},
+{
+  "Name": "Zee Uttar Pradesh Uttrakhand",
+  "Genre": "News",
+  "Language": "Hindi",
+  "MRP": 0.5,
+  "Quality": "SD",
+  "Broadcaster": {"$oid":"5c1b76d90cca52169ac36c61"}
+},
+{
+  "Name": "Zee Hindustan",
+  "Genre": "News",
+  "Language": "Hindi",
+  "MRP": 0.5,
+  "Quality": "SD",
+  "Broadcaster": {"$oid":"5c1b76d90cca52169ac36c61"}
+},
+{
+  "Name": "Ezmall.com",
+  "Genre": "Miscellaneous",
+  "Language": "Hindi",
+  "MRP": 0.1,
+  "Quality": "SD",
+  "Broadcaster": {"$oid":"5c1b76d90cca52169ac36c61"}
+},
+{
+  "Name": "Zee Bihar Jharkhand",
+  "Genre": "News",
+  "Language": "Hindi",
+  "MRP": 0.5,
+  "Quality": "SD",
+  "Broadcaster": {"$oid":"5c1b76d90cca52169ac36c61"}
+},
+{
+  "Name": "Zee News",
+  "Genre": "News",
+  "Language": "Hindi",
+  "MRP": 0.5,
+  "Quality": "SD",
+  "Broadcaster": {"$oid":"5c1b76d90cca52169ac36c61"}
+},
+{
+  "Name": "Zee Rajasthan News",
+  "Genre": "News",
+  "Language": "Hindi",
+  "MRP": 0.5,
+  "Quality": "SD",
+  "Broadcaster": {"$oid":"5c1b76d90cca52169ac36c61"}
+},
+{
+  "Name": "Movies Now",
+  "Genre": "Movies",
+  "Language": "English",
+  "MRP": 12,
+  "Quality": "SD",
+  "Broadcaster": {"$oid":"5c1b77230cca52169ac36c62"}
+}]
